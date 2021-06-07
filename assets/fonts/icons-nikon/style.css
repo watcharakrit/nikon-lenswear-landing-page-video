@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'icons-nikon';
+  src:
+    url('fonts/icons-nikon.ttf?5mt7qq') format('truetype'),
+    url('fonts/icons-nikon.woff?5mt7qq') format('woff'),
+    url('fonts/icons-nikon.svg?5mt7qq#icons-nikon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-nik-"], [class*=" icon-nik-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons-nikon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-nik-myopsee:before {
+  content: "\e927";
+}
+.icon-nik-presio-first:before {
+  content: "\e919";
+}
+.icon-nik-pure-blue:before {
+  content: "\e91a";
+}
+.icon-nik-seemax-power-ap:before {
+  content: "\e918";
+}
+.icon-nik-digital-life:before {
+  content: "\e903";
+}
+.icon-nik-elife-series:before {
+  content: "\e904";
+}
+.icon-nik-home-office-neo:before {
+  content: "\e905";
+}
+.icon-nik-presio-advance:before {
+  content: "\e906";
+}
+.icon-nik-presio-master:before {
+  content: "\e907";
+}
+.icon-nik-presio-power:before {
+  content: "\e908";
+}
+.icon-nik-relaxsee-neo:before {
+  content: "\e909";
+}
+.icon-nik-seecoat-blue-uv:before {
+  content: "\e90a";
+}
+.icon-nik-seecoat-bright:before {
+  content: "\e90b";
+}
+.icon-nik-seecoat-plus-uv:before {
+  content: "\e90c";
+}
+.icon-nik-seemax-infinite:before {
+  content: "\e90d";
+}
+.icon-nik-seemax-ultimate:before {
+  content: "\e90e";
+}
+.icon-nik-soltes-neo:before {
+  content: "\e90f";
+}
+.icon-nik-as:before {
+  content: "\e900";
+}
+.icon-nik-das:before {
+  content: "\e901";
+}
+.icon-nik-plus-circle:before {
+  content: "\e925";
+}
+.icon-nik-store:before {
+  content: "\e926";
+}
+.icon-nik-eye-slash:before {
+  content: "\e923";
+}
+.icon-nik-eye:before {
+  content: "\e924";
+}
+.icon-nik-logout:before {
+  content: "\e922";
+}
+.icon-nik-facebook:before {
+  content: "\e91b";
+}
+.icon-nik-images:before {
+  content: "\e91c";
+}
+.icon-nik-instagram:before {
+  content: "\e91d";
+}
+.icon-nik-search:before {
+  content: "\e91e";
+}
+.icon-nik-sign-right:before {
+  content: "\e91f";
+}
+.icon-nik-target:before {
+  content: "\e920";
+}
+.icon-nik-website:before {
+  content: "\e921";
+}
+.icon-nik-carret-down:before {
+  content: "\e915";
+}
+.icon-nik-carret-left:before {
+  content: "\e916";
+}
+.icon-nik-close:before {
+  content: "\e917";
+}
+.icon-nik-edit:before {
+  content: "\e910";
+}
+.icon-nik-glasses:before {
+  content: "\e911";
+}
+.icon-nik-paper-details:before {
+  content: "\e912";
+}
+.icon-nik-setting:before {
+  content: "\e913";
+}
+.icon-nik-trash:before {
+  content: "\e914";
+}
+.icon-nik-comparison:before {
+  content: "\e902";
+}
